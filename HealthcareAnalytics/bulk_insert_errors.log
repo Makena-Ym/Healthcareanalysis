@@ -1,0 +1,22 @@
+P10001,59,Male,OH,Unknown,189,68,19.0,Medicare,Depression,1,8,1209.0,2025-12-12,39,0
+P10002,58,Female,PA,Unknown,156,91,37.4,Private,Asthma,1,4,999.0,2025-09-16,126,0
+P10003,43,Female,GA,Unknown,152,92,39.8,Medicare,Hypertension,1,6,5638.5,2025-04-09,286,1
+P10004,53,Female,NC,Unknown,167,51,18.3,Medicaid,Asthma,1,4,5796.0,2025-03-07,319,0
+P10005,73,Male,OH,Unknown,160,120,46.9,Medicare,Anxiety,3,9,2397.5,2025-05-13,252,1
+P10006,34,Male,PA,Unknown,161,51,19.7,Private,None,0,3,4668.0,2025-06-11,223,1
+P10007,64,Female,MI,Unknown,177,102,32.6,Private,Arthritis,3,1,9942.5,2025-05-13,252,0
+P10008,61,Female,PA,Unknown,171,86,29.4,Private,Arthritis,2,7,1036.0,2025-05-14,251,1
+P10009,34,Male,FL,Tampa,182,111,33.5,Medicare,None,0,1,4602.0,2026-01-09,11,0
+P10010,47,Female,FL,Orlando,161,54,20.8,Medicare,Depression,1,11,2314.5,2025-05-20,245,0
+P10011,59,Female,MI,Unknown,179,77,24.0,Medicaid,Heart Disease,1,5,6297.0,2025-04-01,294,1
+P10012,43,Male,NY,Buffalo,161,67,25.8,Private,Obesity,1,10,5326.5,2025-03-10,316,1
+P10013,71,Male,PA,Unknown,173,116,38.8,Medicare,Anxiety,1,10,1573.5,2025-11-19,62,1
+P10014,66,Male,GA,Unknown,178,91,28.7,Medicare,Hypertension,2,5,1074.0,2025-10-22,90,0
+P10015,63,Female,CA,San Francisco,155,59,24.6,Medicare,COPD,3,5,11257.5,2025-10-05,107,0
+P10016,52,Male,IL,Springfield,165,65,23.9,Medicaid,Obesity,1,7,7323.0,2025-09-29,113,1
+P10017,72,Male,OH,Unknown,168,109,38.6,Medicare,Anxiety,1,4,981.0,2025-12-10,41,0
+P10018,64,Female,PA,Unknown,157,107,43.4,Medicare,Arthritis,1,11,7276.5,2025-12-30,21,1
+P10019,32,Male,GA,Unknown,182,99,29.9,Private,None,0,2,1802.0,2025-07-01,203,0
+P10020,56,Female,OH,Unknown,160,117,45.7,Private,Obesity,1,5,3319.5,2025-07-24,180,1
+P10021,19,Male,CA,Sacramento,178,65,20.5,Medicaid,None,0,3,3601.0,2025-07-06,198,0
+P10022,41,Male,MI,Unknown,154,52,21.9,Medicaid,Arthritis,1,8,7029.0,2025-10-27,85,0
